@@ -1,0 +1,21 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/css/bundle.css",
+    "inputFiles": [
+      "wwwroot/css/site.css",
+      "wwwroot/css/site2.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/bundle.js",
+    "inputFiles": [
+      "wwwroot/js/site.js",
+      "wwwroot/js/site2.js",
+      "wwwroot/js/site3.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    }
+  }
+]
